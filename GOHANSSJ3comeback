@@ -2089,7 +2089,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
         game:GetService("VirtualInputManager"):SendKeyEvent(false,305,false,game)
     end)
     --------------------------------------------------------------------
-    local BROUi = library:AddWindow("GOHAN HUB | I ALWAYS COME BACK",Enum.KeyCode.RightControl)
+    local BROUi = library:AddWindow("GOHAN HUB | COMEBACK",Enum.KeyCode.RightControl)
     --------------------------------------------------------------------
     local Main = BROUi:AddTab("Auto Farm","6026568198")
     local Combat = BROUi:AddTab("Combat","7251993295")
